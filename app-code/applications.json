@@ -1,0 +1,58 @@
+[
+  {
+    "applicationId": "test250526549",
+    "timestamp": "2026-05-25T11:23:14.707Z",
+    "candidateInfo": {
+      "fullName": "test 2",
+      "email": "bwkariuki@gmail.com",
+      "linkedinProfile": "https://www.linkedin.com/in/bonface-waweru-mrics-07bb526b/"
+    },
+    "ricsStatus": {
+      "hasRicsAccount": "Yes",
+      "ricsCandidateNumber": ""
+    },
+    "apcDetails": {
+      "pathwaySelected": "Yes",
+      "apcRoute": "",
+      "apcPathway": ""
+    },
+    "preferences": {
+      "globalCounsellorPreference": "Yes",
+      "additionalInformation": ""
+    },
+    "billing": {
+      "selectedPackage": "Balanced Service",
+      "packagePrice": "1300",
+      "packageId": "balanced_12m"
+    },
+    "status": "Counsellor Matched"
+  },
+  {
+    "applicationId": "jaribu250526966",
+    "timestamp": "2026-05-25T11:49:58.477Z",
+    "candidateInfo": {
+      "fullName": "jaribu 3",
+      "email": "bwkariuki@gmail.com",
+      "linkedinProfile": "https://www.linkedin.com/in/bonface-waweru-mrics-07bb526b/"
+    },
+    "ricsStatus": {
+      "hasRicsAccount": "Yes",
+      "ricsCandidateNumber": "123456"
+    },
+    "apcDetails": {
+      "pathwaySelected": "Yes",
+      "apcRoute": "senior",
+      "apcPathway": "qs"
+    },
+    "preferences": {
+      "globalCounsellorPreference": "Yes",
+      "additionalInformation": "testing 12 testing"
+    },
+    "billing": {
+      "selectedPackage": "Balanced Service",
+      "packagePrice": "1300",
+      "packageId": "balanced_12m"
+    },
+    "status": "Pending Match"
+  }
+]
